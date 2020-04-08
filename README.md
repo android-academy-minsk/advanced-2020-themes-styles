@@ -30,6 +30,6 @@ Build a Material Theme lets you create your own Material theme by customizing va
 
 [Material Components](https://material.io/components/) are interactive building blocks for creating a user interface.
 
-[COLOR TOOL](material.io/tools/color)
+[COLOR TOOL](https://material.io/resources/color)
 Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
 
