@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="WelcomeView">
+        <attr name="android:textColor" />
+        <attr name="img" format="color|reference" />
+        <attr name="imgTint" format="color" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+</resources>

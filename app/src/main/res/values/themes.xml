@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--res/values/themes.xml-->
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_purple</item>
+        <item name="colorPrimaryVariant">@color/brand_purple_dark</item>
+        <item name="colorPrimaryDark">?attr/colorPrimaryVariant</item>
+
+        <item name="colorSecondary">@color/brand_teal</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+        <item name="colorSecondaryVariant">@color/brand_teal_light</item>
+
+        <item name="toolbarStyle">@style/Widget.MyApp.Toolbar</item>
+
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.MyApp.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MyApp.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.MyApp.LargeComponent</item>
+
+        <item name="android:colorBackground">#FAFAFA</item>
+    </style>
+
+    <style name="Theme.MyApp.Pro">
+        <item name="colorPrimary">@color/mtrl_orange_500</item>
+        <item name="colorPrimaryDark">@color/mtrl_orange_700</item>
+        <item name="colorSecondary">@color/mtrl_green_500</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+    </style>
+
+    <style name="ThemeOverlay.MyApp.Secondary.Blue" parent="">
+        <item name="colorSecondary">@color/mtrl_blue_500</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+    </style>
+
+    <style name="ThemeOverlay.MyApp.ChipGroup.ChipChoice" parent="">
+        <item name="chipStyle">@style/Widget.MaterialComponents.Chip.Choice</item>
+    </style>
+
+
+</resources>

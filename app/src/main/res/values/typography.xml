@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.MyApp.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:fontFamily">...</item>
+        <item name="fontFamily">...</item>
+    </style>
+
+    <style name="TextAppearance.MyApp.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:fontFamily">...</item>
+        <item name="fontFamily">...</item>
+    </style>
+
+    <style name="TextAppearance.MyApp.Body1" parent="TextAppearance.MaterialComponents.Body1">
+       <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.MyApp.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:fontFamily">...</item>
+        <item name="fontFamily">...</item>
+    </style>
+
+    <style name="TextAppearance.MyApp.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:fontFamily">...</item>
+        <item name="fontFamily">...</item>
+    </style>
+    <style name="TextAppearance.MyApp.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:fontFamily">...</item>
+        <item name="fontFamily">...</item>
+    </style>
+
+    <style name="TextAppearance.MyApp.Overline" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="android:fontFamily">...</item>
+        <item name="fontFamily">...</item>
+    </style>
+
+</resources>

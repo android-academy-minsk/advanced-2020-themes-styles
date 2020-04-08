@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ThemeStyleSample</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sign In</string>
+    <string name="visit_type">Visit Type</string>
+    <string name="visit_type_social">Social</string>
+    <string name="visit_type_business">Business</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="password_recovery">Recover</string>
+    <string name="forget_password_desc">Answer a couple of questions to find the best password recovery strategy for you</string>
+    <string name="question_email">Have you access to your kats***xey@gmail.com email?</string>
+    <string name="question_phone">Have you access to your +37544***5313 phone?</string>
+    <string name="question_change">Have you changed your password recently?</string>
+</resources>

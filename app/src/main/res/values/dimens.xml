@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_toolbar">4dp</dimen>
+    <dimen name="edge_padding">32dp</dimen>
+    <dimen name="edge_padding_half">16dp</dimen>
+    <dimen name="chain_padding">16dp</dimen>
+    <dimen name="chain_padding_half">8dp</dimen>
+
+    <dimen name="bottom_sheet_peek_height">90dp</dimen>
+    <dimen name="elevation_bottom_sheet">16dp</dimen>
+</resources>
