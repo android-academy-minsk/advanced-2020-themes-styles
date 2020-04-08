@@ -5,13 +5,13 @@
 Below you can find useful materials that were used for preparation. Those links will help you to consolidate knowledge. So read wisely:
 
 
-###Video:
+### Video:
 
 1. [Android themes & styles demystified - Google I/O 2016](https://www.youtube.com/watch?v=TIHXGwRTMWI)
 2. [Best Practices for Themes and Styles (Android Dev Summit '18)](https://www.youtube.com/watch?v=sNSlDfaNq-0)
 3. [Developing Themes with Style (Android Dev Summit '19)](https://www.youtube.com/watch?v=Owkf8DhAOSo)
 
-###Articles:
+### Articles:
 
 1. [Android Styling: Themes vs Styles](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
 2. [Android Styling: Common Theme Attributes](https://medium.com/androiddevelopers/android-styling-common-theme-attributes-8f7c50c9eaba)
@@ -20,7 +20,7 @@ Below you can find useful materials that were used for preparation. Those links 
 5. [What’s your text’s appearance? Understanding how to declaratively style text on Android.](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
 6. [DayNight — Adding a dark theme to your app](https://medium.com/androiddevelopers/appcompat-v23-2-daynight-d10f90c83e94)
 
-###Material Design
+### Material Design
 
 [material-components-android-examples](https://github.com/material-components/material-components-android-examples)
 The apps in this repository are Android implementations of fictional Material Studies.

@@ -16,7 +16,6 @@
         <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MyApp.MediumComponent</item>
         <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.MyApp.LargeComponent</item>
 
-        <item name="android:colorBackground">#FAFAFA</item>
     </style>
 
     <style name="Theme.MyApp.Pro">
